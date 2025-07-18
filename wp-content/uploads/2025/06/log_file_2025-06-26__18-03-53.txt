@@ -1,0 +1,404 @@
+
+---Downloaded files---
+The import files for: Light Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wdpress12
+Data file = E:\wamp64\www\wdpress12/wp-content/themes/bantec//inc/demo-content/light/content.xml
+Widget file = E:\wamp64\www\wdpress12/wp-content/themes/bantec//inc/demo-content/light/widget.wie
+Customizer file = E:\wamp64\www\wdpress12/wp-content/themes/bantec//inc/demo-content/light/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "favicon" (Media)
+[ERROR] Failed to import "banner-bg" (Media)
+[ERROR] Failed to import "shape-4" (Media)
+[ERROR] Failed to import "logo-2" (Media)
+[ERROR] Failed to import "Frame(2)" (Media)
+[ERROR] Failed to import "banner" (Media)
+[ERROR] Failed to import "logo" (Media)
+[ERROR] Failed to import "shape-1" (Media)
+[ERROR] Failed to import "shape-2" (Media)
+[ERROR] Failed to import "about-1" (Media)
+[ERROR] Failed to import "about-2" (Media)
+[ERROR] Failed to import "about" (Media)
+[ERROR] Failed to import "services" (Media)
+[ERROR] Failed to import "team-1" (Media)
+[ERROR] Failed to import "chose" (Media)
+[ERROR] Failed to import "chose" (Media)
+[ERROR] Failed to import "price" (Media)
+[ERROR] Failed to import "price-1" (Media)
+[ERROR] Failed to import "work" (Media)
+[ERROR] Failed to import "work-2" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "work-2" (Media)
+[ERROR] Failed to import "work-1" (Media)
+[ERROR] Failed to import "faq" (Media)
+[ERROR] Failed to import "faq" (Media)
+[ERROR] Failed to import "testimonial" (Media)
+[ERROR] Failed to import "blog-2" (Media)
+[ERROR] Failed to import "blog-3" (Media)
+[ERROR] Failed to import "blog-1" (Media)
+[ERROR] Failed to import "team-2" (Media)
+[ERROR] Failed to import "team-3" (Media)
+[ERROR] Failed to import "portfolio-1" (Media)
+[ERROR] Failed to import "portfolio-2" (Media)
+[ERROR] Failed to import "portfolio-3" (Media)
+[ERROR] Failed to import "Frame 1000008831" (Media)
+[ERROR] Failed to import "logo-3" (Media)
+[ERROR] Failed to import "header-two-bg" (Media)
+[ERROR] Failed to import "Vector 7" (Media)
+[ERROR] Failed to import "shape-1" (Media)
+[ERROR] Failed to import "shape-2" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "content" (Media)
+[ERROR] Failed to import "shape-3" (Media)
+[ERROR] Failed to import "banner" (Media)
+[ERROR] Failed to import "banner-bg" (Media)
+[ERROR] Failed to import "banner-2" (Media)
+[ERROR] Failed to import "about-2" (Media)
+[ERROR] Failed to import "about-3" (Media)
+[ERROR] Failed to import "skill" (Media)
+[ERROR] Failed to import "skill" (Media)
+[ERROR] Failed to import "form" (Media)
+[ERROR] Failed to import "form-1" (Media)
+[ERROR] Failed to import "form-2" (Media)
+[ERROR] Failed to import "bar" (Media)
+[ERROR] Failed to import "testimonial-2" (Media)
+[ERROR] Failed to import "footer-bg" (Media)
+[ERROR] Failed to import "about-4" (Media)
+[ERROR] Failed to import "about-5" (Media)
+[ERROR] Failed to import "about-6" (Media)
+[ERROR] Failed to import "choose" (Media)
+[ERROR] Failed to import "client" (Media)
+[ERROR] Failed to import "avatar-1" (Media)
+[ERROR] Failed to import "avatar-2" (Media)
+[ERROR] Failed to import "work" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "line" (Media)
+[ERROR] Failed to import "w-line" (Media)
+[ERROR] Failed to import "banner-4" (Media)
+[ERROR] Failed to import "banner-5" (Media)
+[ERROR] Failed to import "shape-1" (Media)
+[ERROR] Failed to import "shape-2" (Media)
+[ERROR] Failed to import "top" (Media)
+[ERROR] Failed to import "shape-top" (Media)
+[ERROR] Failed to import "banner-6" (Media)
+[ERROR] Failed to import "Frame 1000008831(1)" (Media)
+[ERROR] Failed to import "banner-c" (Media)
+[ERROR] Failed to import "abour-robot" (Media)
+[ERROR] Failed to import "about-1" (Media)
+[ERROR] Failed to import "work-1" (Media)
+[ERROR] Failed to import "service" (Media)
+[ERROR] Failed to import "service" (Media)
+[ERROR] Failed to import "portfolio-details" (Media)
+[ERROR] Failed to import "portfolio-details-1" (Media)
+[ERROR] Failed to import "portfolio-details-2" (Media)
+[ERROR] Failed to import "Group 1000008874(2)" (Media)
+[ERROR] Failed to import "chose-1" (Media)
+[ERROR] Failed to import "robot" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "newsletter" (Media)
+[ERROR] Failed to import "cta-shape" (Media)
+[ERROR] Failed to import "banner-bg" (Media)
+[ERROR] Failed to import "banner" (Media)
+[ERROR] Failed to import "about-7" (Media)
+[ERROR] Failed to import "about-8" (Media)
+[ERROR] Failed to import "footer-cta-left" (Media)
+[ERROR] Failed to import "footer-cta-right" (Media)
+[ERROR] Failed to import "skill-2" (Media)
+[ERROR] Failed to import "footer-cta-2" (Media)
+[ERROR] Failed to import "footer_Arrow_02" (Media)
+[ERROR] Failed to import "footer-two-bg" (Media)
+[ERROR] Failed to import "tab" (Media)
+[ERROR] Failed to import "video" (Media)
+[ERROR] Failed to import "quote-arrow" (Media)
+[ERROR] Failed to import "portfolio-5" (Media)
+[ERROR] Failed to import "portfolio-4" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "portfolio-6" (Media)
+[ERROR] Failed to import "blog-4" (Media)
+[ERROR] Failed to import "blog-5" (Media)
+[ERROR] Failed to import "blog-6" (Media)
+[ERROR] Failed to import "blog-7" (Media)
+[ERROR] Failed to import "experience (1)" (Media)
+[ERROR] Failed to import "choose-2" (Media)
+[ERROR] Failed to import "tab" (Media)
+[ERROR] Failed to import "brand-1" (Media)
+[ERROR] Failed to import "brand-2" (Media)
+[ERROR] Failed to import "brand-3" (Media)
+[ERROR] Failed to import "brand-4" (Media)
+[ERROR] Failed to import "brand-5" (Media)
+[ERROR] Failed to import "brand-6" (Media)
+[ERROR] Failed to import "brand-7" (Media)
+[ERROR] Failed to import "brand-8" (Media)
+[ERROR] Failed to import "team-4" (Media)
+[ERROR] Failed to import "team-5" (Media)
+[ERROR] Failed to import "team-6" (Media)
+[ERROR] Failed to import "product-1" (Media)
+[ERROR] Failed to import "product-2" (Media)
+[ERROR] Failed to import "product-3" (Media)
+[ERROR] Failed to import "product-5" (Media)
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_cat Decor
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Tshirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import pa_color Yellow
+[WARNING] Failed to import product_cat Accessories
+[ERROR] Failed to import "product-6" (Media)
+[ERROR] Failed to import "product-7" (Media)
+[ERROR] Failed to import "product-8" (Media)
+[ERROR] Failed to import "product-9" (Media)
+[ERROR] Failed to import "product-10" (Media)
+[ERROR] Failed to import "product-4" (Media)
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "video" (Media)
+[ERROR] Failed to import "shape-1" (Media)
+[ERROR] Failed to import "banner-1" (Media)
+[ERROR] Failed to import "banner-bg-1" (Media)
+[ERROR] Failed to import "bg-1" (Media)
+[ERROR] Failed to import "process" (Media)
+[ERROR] Failed to import "shape-2" (Media)
+[ERROR] Failed to import "banner" (Media)
+[ERROR] Failed to import "step-1" (Media)
+[ERROR] Failed to import "step-2" (Media)
+[ERROR] Failed to import "about" (Media)
+[ERROR] Failed to import "about-2" (Media)
+[ERROR] Failed to import "vector" (Media)
+
+
+---Importing widgets---
+Right Sidebar : 
+
+Block - No Title - Widget already exists
+Recent Post - Bantec - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Left Sidebar : 
+
+Block - No Title - Widget already exists
+
+Service Sidebar : 
+
+Menu Lists - Bantec - No Title - Imported
+Download Info - Bantec - Download - Imported
+CTA Sidebar - Bantec - Instant Support - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
